@@ -657,7 +657,10 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #000000!important;
+}
+#twitter{
+    color: #000000;
 }
 
 .container {
@@ -750,6 +753,15 @@ h4 {
     color: #FFFFFF!important;
 }
 
+.container.bloc-lg {
+    width: 40%;
+}
+
+.row.tight-width-whitespace.grey-background {
+    width: 100%;
+    height: 300px;
+}
+
 span#white {
     background-color: rgb(255, 0, 0);
 }
@@ -790,7 +802,7 @@ span#white {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #000000;
 }
 
 .tc-white {
