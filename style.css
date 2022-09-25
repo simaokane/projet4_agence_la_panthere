@@ -734,7 +734,7 @@ h3 {
 }
 
 h1 {
-    color: #333333!important;
+    color: #FFFFFF!important;
 }
 
 h4 {
@@ -794,12 +794,13 @@ span#white {
 }
 
 .tc-white {
-    color: #FFFFFF!important;
+    color: #f44336!important;
 }
 
 .btn-atomic-tangerine {
     background: #F3976C;
     color: #FFFFFF!important;
+    border: 2px solid transparent;
 }
 
 .btn-atomic-tangerine:hover {
