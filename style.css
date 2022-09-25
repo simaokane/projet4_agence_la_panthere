@@ -719,7 +719,7 @@ p.explain{
 }
 
 h2 {
-    font-size: 22px;
+    font-size: 30px;
     line-height: 1.4em;
 }
 
@@ -806,7 +806,8 @@ span#white {
 }
 
 .tc-white {
-    color: #f44336!important;
+    color: #000000!important;
+    background-color: #fae6fa;
 }
 
 .btn-atomic-tangerine {
