@@ -798,14 +798,15 @@ span#white {
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #f44336;
     color: #FFFFFF!important;
     border: 2px solid transparent;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #c27956!important;
-    color: #FFFFFF!important;
+    background: #fcac1b!important;
+    color: #313030!important;
+    border: solid 2px white;
 }
 
 .ltc-white {
@@ -887,7 +888,6 @@ textarea.form-control {
         background-attachment: scroll;
     }
 }
-
 @media only screen and (min-device-width: 1024px) and (max-device-width: 1366px) and (-webkit-min-device-pixel-ratio: 1.5) {
     .b-parallax {
         background-attachment: scroll;
