@@ -810,9 +810,11 @@ span#white {
 }
 
 .btn-atomic-tangerine {
-    background: #f44336;
-    color: #FFFFFF!important;
+    background: #fae6fa;
+    color: #000000!important;
     border: 2px solid transparent;
+    border-radius: 20px;
+    width: 260px;
 }
 
 .btn-atomic-tangerine:hover {
