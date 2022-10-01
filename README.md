@@ -5,7 +5,7 @@
 ------
 Ce projet est réalisé dans le cadre du parcours **Développeur Web** du site [OpenClassrooms](https://openclassrooms.com/fr/paths/556/projects/638/assignment "OpenClassrooms")
 
-![Logo Agence La Panthere](img/logo1.webp)
+![Logo Agence La Panthere](img/agence-la-panthere-monochrome1.webp)
 
 ### Technologie utilisée
 Sans objet
